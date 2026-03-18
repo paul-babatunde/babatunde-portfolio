@@ -33,7 +33,7 @@ permission management for a platform like The Locker.
 - Searchable and filterable user directory with 10 staff profiles
 - Role assignment with live permissions preview
 - Account status management (Active, Inactive, Suspended)
-- Compliance audit log — every change recorded with reason and timestamp
+- Compliance audit log - every change recorded with reason and timestamp
 
 
 Mirrors the access control needs of The Locker platform where coach 
