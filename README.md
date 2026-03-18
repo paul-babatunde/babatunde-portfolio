@@ -15,7 +15,7 @@ system visibility tool used by a Systems Analyst in a production environment.
 - Filterable incident log with root cause drill-down
 - Real-time refresh simulation using useEffect
 
-**Relevance to CAC Systems Analyst role:**
+
 Mirrors the operational monitoring needs of platforms like The Locker,
 where coach certification data, user access, and service availability
 must be tracked and reported in real time.
@@ -35,7 +35,7 @@ permission management for a platform like The Locker.
 - Account status management (Active, Inactive, Suspended)
 - Compliance audit log — every change recorded with reason and timestamp
 
-**Relevance to CAC Systems Analyst role:**
+
 Mirrors the access control needs of The Locker platform where coach 
 profiles, NCCP certification access, and safe sport compliance records 
 must be managed, audited, and reported accurately.
