@@ -1,8 +1,8 @@
-# Babatunde Paul — Systems Analyst Portfolio
+# Babatunde Paul - Systems Analyst Portfolio
 
 Live demo: https://babatunde-portfolio-seven.vercel.app
 
-## Project 1 — Incident & System Status Dashboard
+## Project 1 - Incident & System Status Dashboard
 
 A React-based operational monitoring dashboard simulating the kind of 
 system visibility tool used by a Systems Analyst in a production environment.
@@ -22,7 +22,7 @@ must be tracked and reported in real time.
 
 ---
 
-## Project 2 — User Access Management Portal
+## Project 2 - User Access Management Portal
 
 A React-based user access control portal simulating role-based 
 permission management for a platform like The Locker.
